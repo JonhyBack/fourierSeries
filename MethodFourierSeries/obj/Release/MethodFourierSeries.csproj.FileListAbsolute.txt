@@ -1,0 +1,10 @@
+D:\Projecs\MethodFourierSeries\MethodFourierSeries\bin\Release\MethodFourierSeries.exe.config
+D:\Projecs\MethodFourierSeries\MethodFourierSeries\bin\Release\MethodFourierSeries.exe
+D:\Projecs\MethodFourierSeries\MethodFourierSeries\bin\Release\MethodFourierSeries.pdb
+D:\Projecs\MethodFourierSeries\MethodFourierSeries\obj\Release\MethodFourierSeries.Form1.resources
+D:\Projecs\MethodFourierSeries\MethodFourierSeries\obj\Release\MethodFourierSeries.Properties.Resources.resources
+D:\Projecs\MethodFourierSeries\MethodFourierSeries\obj\Release\MethodFourierSeries.csproj.GenerateResource.cache
+D:\Projecs\MethodFourierSeries\MethodFourierSeries\obj\Release\MethodFourierSeries.csproj.CoreCompileInputs.cache
+D:\Projecs\MethodFourierSeries\MethodFourierSeries\obj\Release\MethodFourierSeries.exe
+D:\Projecs\MethodFourierSeries\MethodFourierSeries\obj\Release\MethodFourierSeries.pdb
+D:\Projecs\MethodFourierSeries\MethodFourierSeries\obj\Release\MethodFourierSeries.csproj.AssemblyReference.cache
